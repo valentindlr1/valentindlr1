@@ -1,5 +1,7 @@
 <h1 align="center">Hola! Me llamo Valentin</h1>
 <h3 align="center">Soy Desarrollador Web FullStack | Javascript | React | Sequelize</h3>
+<h3 align="center">Y Mobile con Dart | Flutter</h3>
+
 
 - 📫 Contáctame! **valeherreradelarua@gmail.com**
 
